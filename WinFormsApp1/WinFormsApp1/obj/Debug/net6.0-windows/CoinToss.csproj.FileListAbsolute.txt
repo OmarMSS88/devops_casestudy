@@ -1,0 +1,17 @@
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.csproj.AssemblyReference.cache
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmCoinToss.resources
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.csproj.GenerateResource.cache
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.AssemblyInfoInputs.cache
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.AssemblyInfo.cs
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CoinToss.exe
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CoinToss.deps.json
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CoinToss.runtimeconfig.json
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CoinToss.dll
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\CoinToss.pdb
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.dll
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\CoinToss.dll
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.pdb
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\CoinToss.genruntimeconfig.cache
+C:\Users\omars\Documents\DevOps\casestudy\devops_casestudy\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\CoinToss.dll
