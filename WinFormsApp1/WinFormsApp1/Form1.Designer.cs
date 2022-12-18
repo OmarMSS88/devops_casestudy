@@ -34,9 +34,6 @@
             this.settingsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.darkmodeToggle = new System.Windows.Forms.ToolStripMenuItem();
             this.nightmareToggle = new System.Windows.Forms.ToolStripMenuItem();
-            this.scoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.highscores = new System.Windows.Forms.ToolStripMenuItem();
-            this.highscoresN = new System.Windows.Forms.ToolStripMenuItem();
             this.infoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.CreatorInfo = new System.Windows.Forms.ToolStripMenuItem();
             this.btnGO = new System.Windows.Forms.Button();
@@ -52,7 +49,6 @@
             // 
             this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.settingsToolStripMenuItem,
-            this.scoresToolStripMenuItem,
             this.infoToolStripMenuItem});
             this.menuStrip2.Location = new System.Drawing.Point(0, 0);
             this.menuStrip2.Name = "menuStrip2";
@@ -83,28 +79,6 @@
             this.nightmareToggle.Size = new System.Drawing.Size(165, 22);
             this.nightmareToggle.Text = "Nightmare Mode";
             // 
-            // scoresToolStripMenuItem
-            // 
-            this.scoresToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.highscores,
-            this.highscoresN});
-            this.scoresToolStripMenuItem.Name = "scoresToolStripMenuItem";
-            this.scoresToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
-            this.scoresToolStripMenuItem.Text = "Scores";
-            // 
-            // highscores
-            // 
-            this.highscores.Name = "highscores";
-            this.highscores.Size = new System.Drawing.Size(199, 22);
-            this.highscores.Text = "Highscores";
-            // 
-            // highscoresN
-            // 
-            this.highscoresN.Name = "highscoresN";
-            this.highscoresN.Size = new System.Drawing.Size(199, 22);
-            this.highscoresN.Text = "Highscores (nightmare)";
-            this.highscoresN.Click += new System.EventHandler(this.highscoresnightmareToolStripMenuItem_Click);
-            // 
             // infoToolStripMenuItem
             // 
             this.infoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -116,8 +90,9 @@
             // CreatorInfo
             // 
             this.CreatorInfo.Name = "CreatorInfo";
-            this.CreatorInfo.Size = new System.Drawing.Size(113, 22);
+            this.CreatorInfo.Size = new System.Drawing.Size(180, 22);
             this.CreatorInfo.Text = "Creator";
+            this.CreatorInfo.Click += new System.EventHandler(this.CreatorInfo_Click);
             // 
             // btnGO
             // 
@@ -189,6 +164,7 @@
             this.MainMenuStrip = this.menuStrip2;
             this.Name = "frmCoinToss";
             this.Text = "COIN TOSS";
+            this.Load += new System.EventHandler(this.frmCoinToss_Load);
             this.menuStrip2.ResumeLayout(false);
             this.menuStrip2.PerformLayout();
             this.ResumeLayout(false);
@@ -203,9 +179,6 @@
         private ToolStripMenuItem settingsToolStripMenuItem;
         private ToolStripMenuItem darkmodeToggle;
         private ToolStripMenuItem nightmareToggle;
-        private ToolStripMenuItem scoresToolStripMenuItem;
-        private ToolStripMenuItem highscores;
-        private ToolStripMenuItem highscoresN;
         private ToolStripMenuItem infoToolStripMenuItem;
         private ToolStripMenuItem CreatorInfo;
         private Button btnGO;
