@@ -54,7 +54,6 @@ namespace WinFormsApp1
                 }
                 playing = true;
                 correct = false;
-                init = "";
                 score = 0;
                 lblLives.Text = "lives: " + lives;
                 btnGO.Text = "Give up";

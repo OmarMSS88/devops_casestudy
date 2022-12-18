@@ -32,7 +32,6 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmCoinToss));
             this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.settingsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.darkmodeToggle = new System.Windows.Forms.ToolStripMenuItem();
             this.nightmareToggle = new System.Windows.Forms.ToolStripMenuItem();
             this.infoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.CreatorInfo = new System.Windows.Forms.ToolStripMenuItem();
@@ -59,24 +58,16 @@
             // settingsToolStripMenuItem
             // 
             this.settingsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.darkmodeToggle,
             this.nightmareToggle});
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
             this.settingsToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
             this.settingsToolStripMenuItem.Text = "Settings";
             // 
-            // darkmodeToggle
-            // 
-            this.darkmodeToggle.CheckOnClick = true;
-            this.darkmodeToggle.Name = "darkmodeToggle";
-            this.darkmodeToggle.Size = new System.Drawing.Size(165, 22);
-            this.darkmodeToggle.Text = "Darkmode";
-            // 
             // nightmareToggle
             // 
             this.nightmareToggle.CheckOnClick = true;
             this.nightmareToggle.Name = "nightmareToggle";
-            this.nightmareToggle.Size = new System.Drawing.Size(165, 22);
+            this.nightmareToggle.Size = new System.Drawing.Size(180, 22);
             this.nightmareToggle.Text = "Nightmare Mode";
             // 
             // infoToolStripMenuItem
